@@ -10,6 +10,7 @@ L = 1; %maximum length for the links
 np = 14;
 dim = np + 9;
 bL = zeros(1,dim);
+bU = zeros(1,dim);
 bL(1:np) = 0;
 bU(1:np) = 2*pi;
 bU(np+1:dim) = [L,L,L,L,L,L,L,L,pi];
