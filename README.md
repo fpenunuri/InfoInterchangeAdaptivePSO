@@ -3,7 +3,7 @@
 ## 01AdaptPSO
 Contains the proposed PSO method.
 
-## 02Synthes
+## 02Synthesis4R
 Contains the synthesis of a 4R mechanism for gait rehabilitation.
 
 ## 03Michalewicz
